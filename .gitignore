@@ -1,0 +1,13 @@
+/.settings/
+.project
+.cproject
+*.o
+*.prj/
+*.txt
+*.exe
+*_emu
+*_fpga
+*_fpga_ghdl
+*_fpga_qii
+*.a
+result/*.dat
